@@ -1,0 +1,9 @@
+#kaocha/v1
+{:tests [{:id :unit}
+         {:id :rct
+          :test-paths ["src"]
+          :focus-meta [:rct]}
+         ]
+
+ :reporter [kaocha.report/documentation]
+}

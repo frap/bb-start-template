@@ -1,0 +1,5 @@
+#+title: Gases Babashka Project startup
+
+* Intro
+
+Just a quick clone and then start scripting

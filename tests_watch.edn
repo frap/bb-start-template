@@ -1,0 +1,4 @@
+#kaocha/v1
+ {:tests [{:id :unit-watch :skip-meta [:system]}] ;; ignore system tests
+  :watch? true ;; watch mode on
+  :fail-fast? true}
